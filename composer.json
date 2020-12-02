@@ -2,7 +2,7 @@
     "name": "withinboredom/dapr-service",
     "description": "A template of a dapr backed service.",
     "type": "project",
-    "license": "gpl3-or-later",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Rob Landers",
