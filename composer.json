@@ -1,0 +1,16 @@
+{
+    "name": "withinboredom/dapr-service",
+    "description": "A template of a dapr backed service.",
+    "type": "project",
+    "license": "gpl3-or-later",
+    "authors": [
+        {
+            "name": "Rob Landers",
+            "email": "landers.robert@gmail.com"
+        }
+    ],
+    "require": {
+        "withinboredom/dapr-in-php": "^0.1.0",
+        "nikic/fast-route": "^1.3"
+    }
+}
