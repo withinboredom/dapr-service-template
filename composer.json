@@ -13,5 +13,8 @@
         "withinboredom/dapr-in-php": "^0.1.0",
         "nikic/fast-route": "^1.3",
         "oomphinc/composer-installers-extender": "^2.0"
+    },
+    "extras": {
+        "installer-types": ["dapr-service"]
     }
 }
